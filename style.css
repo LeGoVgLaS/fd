@@ -4,7 +4,7 @@ h6{
     color:rgb(151, 151, 152);
     position: absolute;
     right: 15px;
-    top: 700px;
+    top: 800px;
 
 }
 
@@ -29,7 +29,7 @@ main{
 .p1{color: green;
 
 }
-header h2{
+body h2{
     text-align: center;
     font-family: cursive;
 }
@@ -109,10 +109,11 @@ main i{
     top: 20px; 
 }
 footer{
-    padding: 5px;
+    padding: 15px;
     margin: 20px;
     border: 1px solid rgb(151, 151, 152);
     border-radius: 15px;
+     position: relative;
     
 }
 footer h1{
@@ -123,5 +124,26 @@ footer h1{
 footer img{
     width: 35px; 
   height: 35px;
+}
+footer a{
+    font-size: 20px;
+    padding: 10px;
+    border: 1px solid rgb(151, 151, 152);
+    border-radius: 5px;
+    text-decoration: none;
+    color:white;
+    background-color: rgb(177, 177, 177);
+}
+header img{
+    width: 100px; 
+  height: 25px;
+
+  padding: 5px;
+    border: 1px solid rgb(70, 70, 70);
+    border-radius: 7px;
+}
+header{
+    background-color: rgb(70, 70, 70);
+    padding: 20px;
 }
 
